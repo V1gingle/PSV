@@ -1,0 +1,9 @@
+url_games https://raw.githubusercontent.com/V1gingle/PSV/refs/heads/main/PSV_GAMES.tsv
+url_updates https://raw.githubusercontent.com/V1gingle/PSV/refs/heads/main/PSV_UPDATES.tsv
+url_dlcs https://raw.githubusercontent.com/V1gingle/PSV/refs/heads/main/PSV_DLCS.tsv
+url_psx_games https://raw.githubusercontent.com/V1gingle/PSV/refs/heads/main/PSX_GAMES.tsv
+url_psp_games https://raw.githubusercontent.com/V1gingle/PSV/refs/heads/main/PSP_GAMES.tsv
+url_psv_demos https://raw.githubusercontent.com/V1gingle/PSV/refs/heads/main/PSV_DEMOS.tsv
+url_psv_themes https://raw.githubusercontent.com/V1gingle/PSV/refs/heads/main/PSV_THEMES.tsv
+url_psm_games https://raw.githubusercontent.com/V1gingle/PSV/refs/heads/main/PSM_GAMES.tsv
+url_psp_dlcs https://raw.githubusercontent.com/V1gingle/PSV/refs/heads/main/PSP_DLCS.tsv
